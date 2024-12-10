@@ -27,6 +27,11 @@ Install the required packages using:
 ```bash
 pip install numpy torch matplotlib networkx torchfem
 ```
+If anything goes wrong, install the environment using:
+```bash
+pip install -r requirement.txt
+```
+
 
 ## Usage
 
