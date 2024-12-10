@@ -11,7 +11,7 @@ This project is a co-design framework with Python-based simulation and knowledge
 - A python dp-like code block for optimizing sectional areas of truss using finite element analysis for three base truss: **Howe**, **Pratt**, and **Warren** with the given design line load.
 - Simple python implemetation to integrate knowledge graph into physical models and mcdpl package.
 - 2D Visualization of the bridge structure, forces, and constraints.
-- Mcdpl query to find the optimal solution under the given conditions, which levarage  **FUNTIONALITY** and **RESOURCES**.
+- Mcdpl query to find the optimal solution under the given conditions, which levarages  **FUNTIONALITY** and **RESOURCES**.
 
 ## Requirements
 
