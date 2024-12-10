@@ -1,0 +1,8 @@
+
+dp{
+  provides transport_load [kg]
+  requires cost [USD]
+
+  implemented-by yaml resource("truck_catalogues/truck_grid_catalogue.yaml")
+}
+

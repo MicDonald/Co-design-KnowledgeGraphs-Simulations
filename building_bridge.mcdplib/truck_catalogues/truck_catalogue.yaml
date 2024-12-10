@@ -1,0 +1,22 @@
+
+F:
+- "kg"
+R:
+- "USD"
+implementations:
+
+  Small:
+    f_max:
+    - "5000 kg"
+    r_min:
+    - "130.0 USD"
+  Medium:
+    f_max:
+    - "20000 kg"
+    r_min:
+    - "270.0 USD"
+  Large:
+    f_max:
+    - "40000 kg"
+    r_min:
+    - "575.0 USD"

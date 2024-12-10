@@ -1,0 +1,8 @@
+
+dp {
+  provides capacity [N]
+  requires mass [kg]
+  requires cost [USD]
+
+  implemented-by yaml resource("bridge_catalogues/bridge_catalogue.yaml")
+}

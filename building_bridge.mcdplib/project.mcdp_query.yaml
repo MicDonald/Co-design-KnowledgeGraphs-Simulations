@@ -1,0 +1,13 @@
+title: Query_1
+description: 'Query for the model.'
+model: "`project"
+query:
+  query_type: FixFunMinRes
+  min_f: 
+    capacity: 200000 N
+    #trip_ceil: 10000 dimensionless
+  max_r:
+    cost: 100000000 USD
+    #trip: 100000000 dimensionless
+  optimize_for: [cost]
+  # optimize_for: [cost, trip]

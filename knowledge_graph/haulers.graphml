@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="Hauling Options"/>
+<node id="Freight Transport"/>
+<node id="Small Trucks (&lt;5 tons)"/>
+<node id="$100/load"/>
+<node id="$3/mile"/>
+<node id="Medium Trucks (5-20 tons)"/>
+<node id="$225/load"/>
+<node id="$4.5/mile"/>
+<node id="Large Trucks (&gt;20 tons)"/>
+<node id="$500/load"/>
+<node id="$7.5/mile"/>
+<node id="Specialized Services"/>
+<node id="Bulk Haulers (Aggregates)"/>
+<node id="$375/load"/>
+<node id="$5/mile"/>
+<node id="Liquid Haulers (Cement)"/>
+<node id="$700/load"/>
+<node id="$6/mile"/>
+<node id="Flatbeds with Forklifts (Steel, Lumber)"/>
+<node id="$550/load"/>
+<node id="$6.5/mile"/>
+<node id="Oversize Load Haulers (Prefabricated Parts)"/>
+<node id="$3,000/load"/>
+<node id="$10/mile"/>
+<edge source="Hauling Options" target="Freight Transport"/>
+<edge source="Hauling Options" target="Specialized Services"/>
+<edge source="Freight Transport" target="Small Trucks (&lt;5 tons)"/>
+<edge source="Freight Transport" target="Medium Trucks (5-20 tons)"/>
+<edge source="Freight Transport" target="Large Trucks (&gt;20 tons)"/>
+<edge source="Small Trucks (&lt;5 tons)" target="$100/load">
+  <data key="d0">costs</data>
+</edge>
+<edge source="Small Trucks (&lt;5 tons)" target="$3/mile">
+  <data key="d0">price per mile</data>
+</edge>
+<edge source="Medium Trucks (5-20 tons)" target="$225/load">
+  <data key="d0">costs</data>
+</edge>
+<edge source="Medium Trucks (5-20 tons)" target="$4.5/mile">
+  <data key="d0">price per mile</data>
+</edge>
+<edge source="Large Trucks (&gt;20 tons)" target="$500/load">
+  <data key="d0">costs</data>
+</edge>
+<edge source="Large Trucks (&gt;20 tons)" target="$7.5/mile">
+  <data key="d0">price per mile</data>
+</edge>
+<edge source="Specialized Services" target="Bulk Haulers (Aggregates)"/>
+<edge source="Specialized Services" target="Liquid Haulers (Cement)"/>
+<edge source="Specialized Services" target="Flatbeds with Forklifts (Steel, Lumber)"/>
+<edge source="Specialized Services" target="Oversize Load Haulers (Prefabricated Parts)"/>
+<edge source="Bulk Haulers (Aggregates)" target="$375/load">
+  <data key="d0">costs</data>
+</edge>
+<edge source="Bulk Haulers (Aggregates)" target="$5/mile">
+  <data key="d0">price per mile</data>
+</edge>
+<edge source="Liquid Haulers (Cement)" target="$700/load">
+  <data key="d0">costs</data>
+</edge>
+<edge source="Liquid Haulers (Cement)" target="$6/mile">
+  <data key="d0">price per mile</data>
+</edge>
+<edge source="Flatbeds with Forklifts (Steel, Lumber)" target="$550/load">
+  <data key="d0">costs</data>
+</edge>
+<edge source="Flatbeds with Forklifts (Steel, Lumber)" target="$6.5/mile">
+  <data key="d0">price per mile</data>
+</edge>
+<edge source="Oversize Load Haulers (Prefabricated Parts)" target="$3,000/load">
+  <data key="d0">costs</data>
+</edge>
+<edge source="Oversize Load Haulers (Prefabricated Parts)" target="$10/mile">
+  <data key="d0">price per mile</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="r" attr.type="int" for="node" id="r"/>
+    <key attr.name="g" attr.type="int" for="node" id="g"/>
+    <key attr.name="b" attr.type="int" for="node" id="b"/>
+    <key attr.name="x" attr.type="float" for="node" id="x"/>
+    <key attr.name="y" attr.type="float" for="node" id="y"/>
+    <key attr.name="size" attr.type="float" for="node" id="size"/>
+    <graph edgedefault="directed">
+        <node id="Aluminum Alloy">
+            <data key="label">Aluminum Alloy</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">177.17113</data>
+            <data key="y">654.5591</data>
+        </node>
+        <node id="Stainless Steel">
+            <data key="label">Stainless Steel</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">509.75952</data>
+            <data key="y">575.2706</data>
+        </node>
+        <node id="Carbon Fiber">
+            <data key="label">Carbon Fiber</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-639.9161</data>
+            <data key="y">-297.8235</data>
+        </node>
+        <node id="Copper">
+            <data key="label">Copper</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">477.21136</data>
+            <data key="y">400.6246</data>
+        </node>
+        <node id="Titanium Alloy">
+            <data key="label">Titanium Alloy</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">352.2628</data>
+            <data key="y">586.29504</data>
+        </node>
+        <node id="Polycarbonate">
+            <data key="label">Polycarbonate</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">511.54404</data>
+            <data key="y">-450.0121</data>
+        </node>
+        <node id="Polyethylene">
+            <data key="label">Polyethylene</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">343.26874</data>
+            <data key="y">-588.1169</data>
+        </node>
+        <node id="Glass">
+            <data key="label">Glass</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-283.15665</data>
+            <data key="y">455.02356</data>
+        </node>
+        <node id="Concrete">
+            <data key="label">Concrete</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-513.9097</data>
+            <data key="y">233.112</data>
+        </node>
+        <node id="Rubber">
+            <data key="label">Rubber</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-316.35822</data>
+            <data key="y">-498.2702</data>
+        </node>
+        <node id="Wood (Oak)">
+            <data key="label">Wood (Oak)</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">455.32132</data>
+            <data key="y">-84.64758</data>
+        </node>
+        <node id="Kevlar">
+            <data key="label">Kevlar</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-690.4305</data>
+            <data key="y">-103.19094</data>
+        </node>
+        <node id="Graphene">
+            <data key="label">Graphene</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-41.89837</data>
+            <data key="y">-572.8031</data>
+        </node>
+        <node id="Category: Metal">
+            <data key="label">Category: Metal</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">252.16731</data>
+            <data key="y">376.77814</data>
+        </node>
+        <node id="Category: Composite">
+            <data key="label">Category: Composite</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-406.91486</data>
+            <data key="y">-131.36795</data>
+        </node>
+        <node id="Category: Polymer">
+            <data key="label">Category: Polymer</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">246.28131</data>
+            <data key="y">-322.0388</data>
+        </node>
+        <node id="Category: Glass">
+            <data key="label">Category: Glass</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-153.86325</data>
+            <data key="y">216.69456</data>
+        </node>
+        <node id="Category: Cement">
+            <data key="label">Category: Cement</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-272.18768</data>
+            <data key="y">102.55953</data>
+        </node>
+        <node id="Category: Elastomer">
+            <data key="label">Category: Elastomer</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-173.77982</data>
+            <data key="y">-264.55255</data>
+        </node>
+        <node id="Category: Natural">
+            <data key="label">Category: Natural</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">217.75935</data>
+            <data key="y">-57.41071</data>
+        </node>
+        <node id="Category: Nano-material">
+            <data key="label">Category: Nano-material</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-31.887154</data>
+            <data key="y">-303.56927</data>
+        </node>
+        <node id="Young's Modulus (GPa): 69.0">
+            <data key="label">Young's Modulus (GPa): 69.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">215.76585</data>
+            <data key="y">786.108</data>
+        </node>
+        <node id="Young's Modulus (GPa): 200.0">
+            <data key="label">Young's Modulus (GPa): 200.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">624.50745</data>
+            <data key="y">688.69666</data>
+        </node>
+        <node id="Young's Modulus (GPa): 230.0">
+            <data key="label">Young's Modulus (GPa): 230.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-779.0502</data>
+            <data key="y">-356.4943</data>
+        </node>
+        <node id="Young's Modulus (GPa): 110.0">
+            <data key="label">Young's Modulus (GPa): 110.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">595.72003</data>
+            <data key="y">366.98672</data>
+        </node>
+        <node id="Young's Modulus (GPa): 120.0">
+            <data key="label">Young's Modulus (GPa): 120.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">359.0903</data>
+            <data key="y">723.5562</data>
+        </node>
+        <node id="Young's Modulus (GPa): 2.4">
+            <data key="label">Young's Modulus (GPa): 2.4</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">623.07086</data>
+            <data key="y">-470.20822</data>
+        </node>
+        <node id="Young's Modulus (GPa): 0.2">
+            <data key="label">Young's Modulus (GPa): 0.2</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">309.55066</data>
+            <data key="y">-702.77454</data>
+        </node>
+        <node id="Young's Modulus (GPa): 70.0">
+            <data key="label">Young's Modulus (GPa): 70.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-329.94376</data>
+            <data key="y">541.72406</data>
+        </node>
+        <node id="Young's Modulus (GPa): 30.0">
+            <data key="label">Young's Modulus (GPa): 30.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-594.1056</data>
+            <data key="y">292.6528</data>
+        </node>
+        <node id="Young's Modulus (GPa): 0.01">
+            <data key="label">Young's Modulus (GPa): 0.01</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-344.90158</data>
+            <data key="y">-637.6586</data>
+        </node>
+        <node id="Young's Modulus (GPa): 11.0">
+            <data key="label">Young's Modulus (GPa): 11.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">487.31708</data>
+            <data key="y">-162.80235</data>
+        </node>
+        <node id="Young's Modulus (GPa): 83.0">
+            <data key="label">Young's Modulus (GPa): 83.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-804.8795</data>
+            <data key="y">-160.26767</data>
+        </node>
+        <node id="Young's Modulus (GPa): 1000.0">
+            <data key="label">Young's Modulus (GPa): 1000.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-4.709345</data>
+            <data key="y">-701.52435</data>
+        </node>
+        <node id="Yield Strength (MPa): 276">
+            <data key="label">Yield Strength (MPa): 276</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">168.6097</data>
+            <data key="y">756.4532</data>
+        </node>
+        <node id="Yield Strength (MPa): 250">
+            <data key="label">Yield Strength (MPa): 250</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">569.1667</data>
+            <data key="y">712.58514</data>
+        </node>
+        <node id="Yield Strength (MPa): 1200">
+            <data key="label">Yield Strength (MPa): 1200</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-721.5554</data>
+            <data key="y">-357.46017</data>
+        </node>
+        <node id="Yield Strength (MPa): 70">
+            <data key="label">Yield Strength (MPa): 70</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">617.06714</data>
+            <data key="y">410.2577</data>
+        </node>
+        <node id="Yield Strength (MPa): 830">
+            <data key="label">Yield Strength (MPa): 830</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">424.8862</data>
+            <data key="y">666.8918</data>
+        </node>
+        <node id="Yield Strength (MPa): 20">
+            <data key="label">Yield Strength (MPa): 20</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">380.07495</data>
+            <data key="y">-680.52734</data>
+        </node>
+        <node id="Yield Strength (MPa): 50">
+            <data key="label">Yield Strength (MPa): 50</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-261.49057</data>
+            <data key="y">565.4226</data>
+        </node>
+        <node id="Yield Strength (MPa): 3">
+            <data key="label">Yield Strength (MPa): 3</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-637.88544</data>
+            <data key="y">319.39084</data>
+        </node>
+        <node id="Yield Strength (MPa): 5">
+            <data key="label">Yield Strength (MPa): 5</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-413.1879</data>
+            <data key="y">-529.88306</data>
+        </node>
+        <node id="Yield Strength (MPa): 40">
+            <data key="label">Yield Strength (MPa): 40</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">585.9471</data>
+            <data key="y">-108.692</data>
+        </node>
+        <node id="Yield Strength (MPa): 3620">
+            <data key="label">Yield Strength (MPa): 3620</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-774.28955</data>
+            <data key="y">-26.51314</data>
+        </node>
+        <node id="Yield Strength (MPa): 13000">
+            <data key="label">Yield Strength (MPa): 13000</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-47.050373</data>
+            <data key="y">-711.75555</data>
+        </node>
+        <node id="Price per Unit ($/kg): 2.5">
+            <data key="label">Price per Unit ($/kg): 2.5</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">105.35407</data>
+            <data key="y">773.85736</data>
+        </node>
+        <node id="Price per Unit ($/kg): 3.0">
+            <data key="label">Price per Unit ($/kg): 3.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">643.0873</data>
+            <data key="y">587.0935</data>
+        </node>
+        <node id="Price per Unit ($/kg): 20.0">
+            <data key="label">Price per Unit ($/kg): 20.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-678.2697</data>
+            <data key="y">-410.4211</data>
+        </node>
+        <node id="Price per Unit ($/kg): 9.0">
+            <data key="label">Price per Unit ($/kg): 9.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">577.80817</data>
+            <data key="y">447.70712</data>
+        </node>
+        <node id="Price per Unit ($/kg): 35.0">
+            <data key="label">Price per Unit ($/kg): 35.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">410.146</data>
+            <data key="y">718.7324</data>
+        </node>
+        <node id="Price per Unit ($/kg): 3.5">
+            <data key="label">Price per Unit ($/kg): 3.5</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">654.50323</data>
+            <data key="y">-503.59286</data>
+        </node>
+        <node id="Price per Unit ($/kg): 1.0">
+            <data key="label">Price per Unit ($/kg): 1.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">422.8473</data>
+            <data key="y">-714.3227</data>
+        </node>
+        <node id="Price per Unit ($/kg): 0.8">
+            <data key="label">Price per Unit ($/kg): 0.8</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-385.84464</data>
+            <data key="y">498.869</data>
+        </node>
+        <node id="Price per Unit ($/kg): 0.05">
+            <data key="label">Price per Unit ($/kg): 0.05</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-646.43475</data>
+            <data key="y">259.30798</data>
+        </node>
+        <node id="Price per Unit ($/kg): 2.0">
+            <data key="label">Price per Unit ($/kg): 2.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-384.48544</data>
+            <data key="y">-610.34735</data>
+        </node>
+        <node id="Price per Unit ($/kg): 0.5">
+            <data key="label">Price per Unit ($/kg): 0.5</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">581.3312</data>
+            <data key="y">-56.132256</data>
+        </node>
+        <node id="Price per Unit ($/kg): 10.0">
+            <data key="label">Price per Unit ($/kg): 10.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-842.45215</data>
+            <data key="y">-112.22168</data>
+        </node>
+        <node id="Poisson's Ratio: 0.33">
+            <data key="label">Poisson's Ratio: 0.33</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">151.62234</data>
+            <data key="y">805.5845</data>
+        </node>
+        <node id="Poisson's Ratio: 0.3">
+            <data key="label">Poisson's Ratio: 0.3</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">588.9772</data>
+            <data key="y">655.23645</data>
+        </node>
+        <node id="Poisson's Ratio: 0.25">
+            <data key="label">Poisson's Ratio: 0.25</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-738.893</data>
+            <data key="y">-407.26505</data>
+        </node>
+        <node id="Poisson's Ratio: 0.34">
+            <data key="label">Poisson's Ratio: 0.34</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">426.4512</data>
+            <data key="y">500.896</data>
+        </node>
+        <node id="Poisson's Ratio: 0.37">
+            <data key="label">Poisson's Ratio: 0.37</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">630.20123</data>
+            <data key="y">-425.07156</data>
+        </node>
+        <node id="Poisson's Ratio: 0.42">
+            <data key="label">Poisson's Ratio: 0.42</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">439.8596</data>
+            <data key="y">-657.6046</data>
+        </node>
+        <node id="Poisson's Ratio: 0.22">
+            <data key="label">Poisson's Ratio: 0.22</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-382.26642</data>
+            <data key="y">560.51355</data>
+        </node>
+        <node id="Poisson's Ratio: 0.2">
+            <data key="label">Poisson's Ratio: 0.2</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-620.71436</data>
+            <data key="y">209.08844</data>
+        </node>
+        <node id="Poisson's Ratio: 0.49">
+            <data key="label">Poisson's Ratio: 0.49</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-424.05377</data>
+            <data key="y">-583.4924</data>
+        </node>
+        <node id="Poisson's Ratio: 0.4">
+            <data key="label">Poisson's Ratio: 0.4</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">546.37756</data>
+            <data key="y">-152.66737</data>
+        </node>
+        <node id="Poisson's Ratio: 0.36">
+            <data key="label">Poisson's Ratio: 0.36</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-826.2205</data>
+            <data key="y">-54.71431</data>
+        </node>
+        <node id="Engineering Material">
+            <data key="label">Engineering Material</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-23.97757</data>
+            <data key="y">-29.211386</data>
+        </node>
+        <node id="Price per Unit ($/kg): 10000.0">
+            <data key="label">Price per Unit ($/kg): 10000.0</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-91.15897</data>
+            <data key="y">-698.32117</data>
+        </node>
+        <node id="Poisson's Ratio: 0.16">
+            <data key="label">Poisson's Ratio: 0.16</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-109.69928</data>
+            <data key="y">-648.9365</data>
+        </node>
+        <node id="Yield Strength (MPa): 60">
+            <data key="label">Yield Strength (MPa): 60</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">575.9156</data>
+            <data key="y">-560.5329</data>
+        </node>
+        <node id="Density (g/cm³): 2.70">
+            <data key="label">Density (g/cm³): 2.70</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">88.73949</data>
+            <data key="y">718.795</data>
+        </node>
+        <node id="Density (g/cm³): 7.85">
+            <data key="label">Density (g/cm³): 7.85</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">649.67865</data>
+            <data key="y">637.1166</data>
+        </node>
+        <node id="Density (g/cm³): 1.60">
+            <data key="label">Density (g/cm³): 1.60</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-760.1212</data>
+            <data key="y">-302.95248</data>
+        </node>
+        <node id="Density (g/cm³): 8.96">
+            <data key="label">Density (g/cm³): 8.96</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">553.8876</data>
+            <data key="y">333.95078</data>
+        </node>
+        <node id="Density (g/cm³): 4.43">
+            <data key="label">Density (g/cm³): 4.43</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">329.41006</data>
+            <data key="y">676.89746</data>
+        </node>
+        <node id="Density (g/cm³): 1.20">
+            <data key="label">Density (g/cm³): 1.20</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">625.70374</data>
+            <data key="y">-537.751</data>
+        </node>
+        <node id="Density (g/cm³): 0.95">
+            <data key="label">Density (g/cm³): 0.95</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">362.58502</data>
+            <data key="y">-731.9802</data>
+        </node>
+        <node id="Density (g/cm³): 2.50">
+            <data key="label">Density (g/cm³): 2.50</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-319.01978</data>
+            <data key="y">593.88135</data>
+        </node>
+        <node id="Density (g/cm³): 2.40">
+            <data key="label">Density (g/cm³): 2.40</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-570.6074</data>
+            <data key="y">344.83603</data>
+        </node>
+        <node id="Density (g/cm³): 1.10">
+            <data key="label">Density (g/cm³): 1.10</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-305.0976</data>
+            <data key="y">-603.5188</data>
+        </node>
+        <node id="Density (g/cm³): 0.75">
+            <data key="label">Density (g/cm³): 0.75</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">533.88385</data>
+            <data key="y">-22.358889</data>
+        </node>
+        <node id="Density (g/cm³): 1.44">
+            <data key="label">Density (g/cm³): 1.44</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-787.3673</data>
+            <data key="y">-100.21429</data>
+        </node>
+        <node id="Density (g/cm³): 2.26">
+            <data key="label">Density (g/cm³): 2.26</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">17.091887</data>
+            <data key="y">-655.4924</data>
+        </node>
+        <edge id="0" source="Aluminum Alloy" target="Category: Metal">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1" source="Aluminum Alloy" target="Young's Modulus (GPa): 69.0">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2" source="Aluminum Alloy" target="Yield Strength (MPa): 276">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="3" source="Aluminum Alloy" target="Price per Unit ($/kg): 2.5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="4" source="Aluminum Alloy" target="Poisson's Ratio: 0.33">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="5" source="Stainless Steel" target="Category: Metal">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="6" source="Stainless Steel" target="Young's Modulus (GPa): 200.0">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="7" source="Stainless Steel" target="Yield Strength (MPa): 250">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="8" source="Stainless Steel" target="Price per Unit ($/kg): 3.0">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="9" source="Stainless Steel" target="Poisson's Ratio: 0.3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10" source="Carbon Fiber" target="Category: Composite">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="11" source="Carbon Fiber" target="Young's Modulus (GPa): 230.0">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="12" source="Carbon Fiber" target="Yield Strength (MPa): 1200">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="13" source="Carbon Fiber" target="Price per Unit ($/kg): 20.0">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="14" source="Carbon Fiber" target="Poisson's Ratio: 0.25">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="15" source="Copper" target="Category: Metal">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="16" source="Copper" target="Young's Modulus (GPa): 110.0">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="17" source="Copper" target="Yield Strength (MPa): 70">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="18" source="Copper" target="Price per Unit ($/kg): 9.0">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="19" source="Copper" target="Poisson's Ratio: 0.34">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="20" source="Titanium Alloy" target="Category: Metal">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="21" source="Titanium Alloy" target="Young's Modulus (GPa): 120.0">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="22" source="Titanium Alloy" target="Yield Strength (MPa): 830">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="23" source="Titanium Alloy" target="Price per Unit ($/kg): 35.0">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="24" source="Titanium Alloy" target="Poisson's Ratio: 0.34">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="25" source="Polycarbonate" target="Category: Polymer">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="26" source="Polycarbonate" target="Young's Modulus (GPa): 2.4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="27" source="Polycarbonate" target="Price per Unit ($/kg): 3.5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="28" source="Polycarbonate" target="Poisson's Ratio: 0.37">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="99" source="Polycarbonate" target="Yield Strength (MPa): 60">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="29" source="Polyethylene" target="Category: Polymer">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="30" source="Polyethylene" target="Young's Modulus (GPa): 0.2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="31" source="Polyethylene" target="Yield Strength (MPa): 20">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="32" source="Polyethylene" target="Price per Unit ($/kg): 1.0">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="33" source="Polyethylene" target="Poisson's Ratio: 0.42">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="34" source="Glass" target="Category: Glass">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="35" source="Glass" target="Young's Modulus (GPa): 70.0">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="36" source="Glass" target="Yield Strength (MPa): 50">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="37" source="Glass" target="Price per Unit ($/kg): 0.8">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="38" source="Glass" target="Poisson's Ratio: 0.22">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="39" source="Concrete" target="Category: Cement">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="40" source="Concrete" target="Young's Modulus (GPa): 30.0">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="41" source="Concrete" target="Yield Strength (MPa): 3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="42" source="Concrete" target="Price per Unit ($/kg): 0.05">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="43" source="Concrete" target="Poisson's Ratio: 0.2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="44" source="Rubber" target="Category: Elastomer">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="45" source="Rubber" target="Young's Modulus (GPa): 0.01">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="46" source="Rubber" target="Yield Strength (MPa): 5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="47" source="Rubber" target="Price per Unit ($/kg): 2.0">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="48" source="Rubber" target="Poisson's Ratio: 0.49">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="49" source="Wood (Oak)" target="Category: Natural">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="50" source="Wood (Oak)" target="Young's Modulus (GPa): 11.0">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="51" source="Wood (Oak)" target="Yield Strength (MPa): 40">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="52" source="Wood (Oak)" target="Price per Unit ($/kg): 0.5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="53" source="Wood (Oak)" target="Poisson's Ratio: 0.4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="54" source="Kevlar" target="Category: Composite">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="55" source="Kevlar" target="Young's Modulus (GPa): 83.0">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="56" source="Kevlar" target="Yield Strength (MPa): 3620">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="57" source="Kevlar" target="Price per Unit ($/kg): 10.0">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="58" source="Kevlar" target="Poisson's Ratio: 0.36">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="59" source="Graphene" target="Category: Nano-material">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="60" source="Graphene" target="Young's Modulus (GPa): 1000.0">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="61" source="Graphene" target="Yield Strength (MPa): 13000">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="62" source="Graphene" target="Price per Unit ($/kg): 10000.0">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="63" source="Graphene" target="Poisson's Ratio: 0.16">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="64" source="Engineering Material" target="Category: Metal">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="65" source="Engineering Material" target="Category: Composite">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="66" source="Engineering Material" target="Category: Polymer">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="67" source="Engineering Material" target="Category: Glass">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="68" source="Engineering Material" target="Category: Cement">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="69" source="Engineering Material" target="Category: Elastomer">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="70" source="Engineering Material" target="Category: Natural">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="71" source="Engineering Material" target="Category: Nano-material">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="72" source="Aluminum Alloy" target="Density (g/cm³): 2.70">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="73" source="Stainless Steel" target="Density (g/cm³): 7.85">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="74" source="Carbon Fiber" target="Density (g/cm³): 1.60">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="75" source="Copper" target="Density (g/cm³): 8.96">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="76" source="Titanium Alloy" target="Density (g/cm³): 4.43">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="77" source="Polycarbonate" target="Density (g/cm³): 1.20">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="78" source="Polyethylene" target="Density (g/cm³): 0.95">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="79" source="Glass" target="Density (g/cm³): 2.50">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80" source="Concrete" target="Density (g/cm³): 2.40">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="81" source="Rubber" target="Density (g/cm³): 1.10">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="82" source="Wood (Oak)" target="Density (g/cm³): 0.75">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="83" source="Kevlar" target="Density (g/cm³): 1.44">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="84" source="Graphene" target="Density (g/cm³): 2.26">
+            <data key="weight">1.0</data>
+        </edge>
+    </graph>
+</graphml>

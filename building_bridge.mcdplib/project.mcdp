@@ -1,0 +1,13 @@
+mcdp {
+  provides capacity [N]
+  requires cost [USD]
+  
+  bridge_dp = instance `bridge
+  truck_grid_dp = instance `truck_grid  
+
+  provided capacity <= capacity provided by bridge_dp
+
+  transport_load provided by truck_grid_dp >= mass required by bridge_dp 
+  required cost >= cost required by bridge_dp + cost required by truck_grid_dp
+
+} 

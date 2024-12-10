@@ -1,0 +1,8 @@
+
+dp{
+  provides payload [kg]
+  requires cost [USD]
+
+  implemented-by yaml resource("truck_catalogues/truck_catalogue.yaml")
+}
+

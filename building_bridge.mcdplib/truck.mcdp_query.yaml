@@ -1,0 +1,11 @@
+title: Query_1
+description: 'Query for the transport.'
+model: "`truck"
+query:
+  query_type: FixFunMinRes
+  min_f: 
+    payload: 30000 kg
+  max_r:
+    cost: 10000000000 USD
+  optimize_for: [cost]
+  
